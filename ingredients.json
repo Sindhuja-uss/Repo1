@@ -1,0 +1,6 @@
+[
+    { "name": "sugar", "density": 200 },
+    { "name": "flour", "density": 120 },
+    { "name": "butter", "density": 240 },
+    { "name": "honey", "density": 340 }
+]
